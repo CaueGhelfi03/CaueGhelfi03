@@ -1,5 +1,5 @@
 # 💫 Sobre mim:
-🔭 Estagiário na área de desenvolvimento de software, adquirindo competências em C# e no sistema ERP SAP Business One, ;<br>🌱 Atualmente estou estudando Java e C#;<br>💬 Contate-me no email: caueghelfi03@gmail.com;<br>😄 Pronouns: ele/dele;
+🔭 Estagiário na área de desenvolvimento de software, adquirindo competências em C# e no sistema ERP SAP Business One;<br>🌱 Atualmente estou estudando Java e C#;<br>💬 Contate-me no email: caueghelfi03@gmail.com;<br>😄 Pronouns: ele/dele;
 
 
 ## 🌐 Redes sociais:
