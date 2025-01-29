@@ -16,7 +16,8 @@
 - **Tools & Platforms:**
   - ![Docker](https://img.shields.io/badge/docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white)![AWS](https://img.shields.io/badge/AWS-%23232F3E.svg?style=for-the-badge&logo=amazonaws&logoColor=white)![BitBucket](https://img.shields.io/badge/Bitbucket-0747a6?style=for-the-badge&logo=bitbucket&logoColor=white)![SAP](https://img.shields.io/badge/SAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white)![Amazon AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
  
-- ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=seu-usuario-github&theme=github)
+- ![Caue GitHub stats](https://github-readme-stats.vercel.app/api?username=caueghelfi03&show_icons=true&theme=vision-friendly-dark)
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caueghelfi03&layout=compact&langs_count=16&theme=vision-friendly-dark"/>
 ---
 [![](https://visitcount.itsvg.in/api?id=CaueGhelfi&icon=0&color=0)](https://visitcount.itsvg.in)
 
